@@ -1,0 +1,21 @@
+ <style>
+        .custom-button {
+      border-radius: 20px;
+          box-shadow: 2px 2px 1px grey;
+            background-color: #016095; 
+            color: white; 
+            border: none; 
+            padding: 10px 20px; 
+            text-align: center; 
+            text-decoration: none; 
+            display: inline-block; 
+            font-size: 19px; 
+            cursor: pointer; 
+            transition: background-color 0.3s, color 0.3s; 
+        }
+
+        .custom-button:hover {
+            background-color: white; 
+            color: black; 
+        }
+    </style>
